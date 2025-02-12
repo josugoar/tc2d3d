@@ -2,6 +2,7 @@
     "recommendations": [
         "eeyore.yapf",
         "ms-python.flake8",
-        "ms-python.python"
+        "ms-python.python",
+        "ms-toolsai.tensorboard"
     ]
 }
